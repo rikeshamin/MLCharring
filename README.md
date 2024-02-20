@@ -11,10 +11,9 @@ Instructions on how to deploy the Machine Learning models to predict the average
 2. Run the following command in the Terminal: 'pip install -r requirements.txt'. This will install all the relevant python packages required. 
 3. 
 
-If you find any issues, please report them to this repository by creating an issue or emailing. 
+If you find any issues, please report them to this repository by creating an issue or emailing.
+
 rikesh.amin18@imperial.ac.uk or g.rein@imperial.ac.uk
-
-
 
 https://scholar.google.com/citations?user=mxs07DUAAAAJ&hl=fr&oi=ao
 
