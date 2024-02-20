@@ -8,7 +8,7 @@ MLCharring is a set of machine learning models that is used to predict the avera
 Instructions on how to deploy the Machine Learning models to predict the average charring rate of Mass Timber for Structural Calculations.
 
 1. Install Python 3.10.8
-2. Run the following command in the Terminal:```pip install -r requirements.txt```. This will install all the relevant python packages required.
+2. Run the following command in the Terminal: ```pip install -r requirements.txt```. This will install all the relevant python packages required.
 3. 
 
 If you find any issues, please create an issue on this repository or emailing:
