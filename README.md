@@ -55,7 +55,18 @@ If you encounter any problems, please create an issue directly in this repositor
 * Upload deep learning models (currently on my own server)
 * Implement MLOps for containerization and deployment (Docker and Kubernetes)
 ---
-
-
+### Citation
+```text
+@article{Amin2024,
+   author = {Amin, Rikesh and Yaxin, Mo and Richter, Franz and Kurzer, Christoph and Werther, Norman and Rein, Guillermo},
+   title = {Predicting the Average Charring Rate of Mass Timber Using Data-Driven Methods for Structural Calculations},
+   journal = {Fire Technology},
+   ISSN = {1572-8099},
+   DOI = {10.1007/s10694-024-01593-x},
+   url = {https://doi.org/10.1007/s10694-024-01593-x},
+   year = {2024},
+   type = {Journal Article}
+}
+```
 
 
